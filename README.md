@@ -1,0 +1,2 @@
+# solidworks-copilot
+solidworks-copilot
